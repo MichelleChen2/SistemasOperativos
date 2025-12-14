@@ -1,0 +1,6 @@
+fisopfs
+*.fisopfs
+*.o
+
+.vscode*
+*.json

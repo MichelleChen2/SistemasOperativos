@@ -1,0 +1,1 @@
+mkdir: cannot create directory ‘carpeta10’: No space left on device
